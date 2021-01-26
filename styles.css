@@ -50,9 +50,9 @@ nav {
 .nav-links {
   display: flex;
   list-style: none;
-  width: 50%;
+  width: 25%;
   height: 100%;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   margin-left: auto;
 }
