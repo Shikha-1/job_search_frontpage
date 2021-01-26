@@ -60,6 +60,7 @@ nav {
 .nav-links li a {
   color: #E8EAE6;
   text-decoration: none;
+margin-top: 15px;
   font-size: 16px;
 }
 @media screen and (max-width: 1000px) {
